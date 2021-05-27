@@ -6,7 +6,6 @@ public class CalcBonus {
     if (u.vip)
       multiplicador = 1;
     return multiplicador;
-
   }
 
 }
